@@ -4,7 +4,7 @@ A personalized sleep companion designed to help you build a consistent and healt
 
 ---
 
-### 📄 **[View the Live Privacy Policy](https://<Your-GitHub-Username>.github.io/sonnifera-policy/privacy-policy.html)**
+### 📄 **[View the Live Privacy Policy](https://giovannibraconi.github.io/sonnifera-privacy-policy/privacy-policy.html)**
 
 ---
 
